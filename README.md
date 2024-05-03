@@ -1,5 +1,5 @@
-### Hi there 👋
-Im Amaldev
+### Hi there I'm <Amaldev>! 👋
+Im a passionate CS studnt specialized in Artificial Intelligence
 
 <!--
 **amaldev024/amaldev024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
